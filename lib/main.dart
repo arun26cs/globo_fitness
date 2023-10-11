@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:globo_fitness/MyApp.dart'; 
+import 'package:globo_fitness/Home.dart'; 
 void main(){
-  runApp(MyApp());
+  runApp(Home());
 }
 
